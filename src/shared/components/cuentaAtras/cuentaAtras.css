@@ -1,0 +1,27 @@
+.countdown-wrapper{
+    margin-left: 25%;
+}
+
+.time-section{
+    float: left;
+    margin-left: 20px;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    min-width: 100pt;
+    min-height: 100pt;
+    justify-content: center;
+	align-items: center;
+	text-align: center;
+    display: flex;
+}
+.time{
+    display: flex;
+    font-size: 20pt;
+}
+.time-text{
+    display: flex;
+    margin-left: 10px;
+}
