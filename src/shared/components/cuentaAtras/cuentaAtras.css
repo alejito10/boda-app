@@ -1,17 +1,19 @@
 .countdown-wrapper{
-    margin-left: 25%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
 }
-
+.fecha{
+    text-align: center;
+}
 .time-section{
-    float: left;
     margin-left: 20px;
     border: 1px solid;
     border-color: black;
     border-radius: 50%;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;
-    min-width: 100pt;
-    min-height: 100pt;
+    min-width: 10rem;
+    min-height: 10rem;
     justify-content: center;
 	align-items: center;
 	text-align: center;
