@@ -51,7 +51,7 @@ export function Formulario() {
 						</div>
 						<div className="c-contenido">
 							<div>
-								<span>vegano</span>
+								<span>Vegano</span>
 							</div>
 							<select name="vegano" id="vegano" ref={register}>
 								<option value="no">No</option>
@@ -78,7 +78,7 @@ export function Formulario() {
 									name="alergias"
 									id="alergias"
 									cols="30"
-									rows="10"
+									rows="5"
 									ref={register({ required: true })}
 								/>
 								{errors.message && <span>This field is required</span>}

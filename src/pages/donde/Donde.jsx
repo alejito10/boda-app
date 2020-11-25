@@ -17,8 +17,7 @@ export function Donde() {
 					</div>
 					<div className="c-celebracion">
 						<p>
-							Aunque si preferís ir en vuestro propio coche, la masía de Campo
-							Aníbal tiene un parking exclusivo para los invitados de la boda.
+							Aunque si preferís ir en vuestro propio coche,la finca Valquijancho tiene un parking exclusivo para los invitados de la boda.
                             <br/>
 							Os dejamos la ubicación y algo de información acerca del sitio.
 						</p>
