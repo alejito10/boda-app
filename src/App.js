@@ -16,6 +16,7 @@ function App() {
 			<Menu />
 			<hr/>
 			<Titulo/>
+			<hr/>
 			<Switch>
 				<Route path="/dormir">
 					<Dormir />
