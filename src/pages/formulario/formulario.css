@@ -4,3 +4,19 @@
     text-align: center;
     margin-bottom: 10px;
 }
+.subtitulo{
+    text-align: center;
+}
+.texto-alergias{
+    text-align: center;
+    justify-content: center;
+}
+.b-input{
+    height: 20px;
+    width: 200pt;
+    font-size: large;
+}
+.b-input2{
+    width: 200pt;
+     height: 100px;
+}
