@@ -1,5 +1,5 @@
 {
-  "homepage":"https://alejito10.github.io/boda-app",
+  "homepage": "https://alejito10.github.io/boda-app",
   "name": "boda-app",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +19,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "simple-react-google-maps": "^1.1.2",
+    "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -26,7 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeply":"npm run build",
+    "predeply": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

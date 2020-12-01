@@ -5,15 +5,15 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 //import firebase from "firebase";
 import {Formulario} from './pages/formulario/Formulario'
 import {Home} from './pages/home/Home'
-import {Menu} from './shared/components/menu/Menu'
 import {Titulo} from './shared/components/titulo/Titulo'
 import {Donde} from './pages/donde/Donde'
 import {Dormir} from './pages/dormir/Dormir'
+import {Header} from './shared/components/header/Header'
 
 function App() {
   return (
 		<Router>
-			<Menu />
+			<Header />
 			<hr/>
 			<Titulo/>
 			<hr/>
