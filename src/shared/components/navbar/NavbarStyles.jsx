@@ -12,6 +12,8 @@ export const NavbarWrapper = styled.nav`
 	width: 100%;
 	height: 90vh;
 	transition: right 0.3s linear;
+    font-size: 35px;
+    margin-left:20px;
 
 	@media only screen and (min-width: 624px) {
 		flex-direction: row;
