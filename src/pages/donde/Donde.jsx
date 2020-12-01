@@ -1,4 +1,5 @@
 import React from 'react'
+import MapView from "../../shared/components/maps/Maps";
 import './donde.css'
 
 export function Donde() {
@@ -23,6 +24,7 @@ export function Donde() {
 						</p>
 					</div>
 				</div>
+				<MapView/>
 			</div>
 		);
 }
