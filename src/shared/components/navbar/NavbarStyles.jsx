@@ -12,8 +12,8 @@ export const NavbarWrapper = styled.nav`
 	width: 100%;
 	height: 90vh;
 	transition: right 0.3s linear;
-    font-size: 35px;
-    margin-left:20px;
+	font-size: 35px;
+	margin-left: 20px;
 
 	@media only screen and (min-width: 624px) {
 		flex-direction: row;
@@ -27,5 +27,9 @@ export const NavbarWrapper = styled.nav`
 		padding: 0.5rem 0.8rem;
 		color: grey;
 		text-decoration: none;
+		border: black 1px solid;
+		margin-left: 20px;
+		border-radius: 30px;
+		margin-top: 15px;
 	}
 `;

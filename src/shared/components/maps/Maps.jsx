@@ -5,7 +5,7 @@ import '../maps/maps.css'
 
 class MapView extends React.Component {
 	render() {
-        const styleMap = { width: "100%", height: "100vh" };
+        const styleMap = { width: "80%", height: "80vh" };
         const position = [40.6837789, -3.6501037];
 		return (
 			<div className='mapa-container'>
