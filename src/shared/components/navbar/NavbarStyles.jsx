@@ -20,16 +20,19 @@ export const NavbarWrapper = styled.nav`
 		position: initial;
 		height: auto;
 		justify-content: center;
-		background: white;
+		background: #f2f2f2;
+		width: 100%;
+		left: 0;
+		top: 0;
+		position: fixed;
+		margin-top: 0;
+		padding: 0%;
 	}
 
 	a {
 		padding: 0.5rem 0.8rem;
 		color: grey;
 		text-decoration: none;
-		border: black 1px solid;
 		margin-left: 20px;
-		border-radius: 30px;
-		margin-top: 15px;
 	}
 `;
