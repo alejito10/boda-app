@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/boda-app/static/css/main.d5953adb.chunk.css",
+    "main.css": "/boda-app/static/css/main.33356f7a.chunk.css",
     "main.js": "/boda-app/static/js/main.0c09fca3.chunk.js",
     "main.js.map": "/boda-app/static/js/main.0c09fca3.chunk.js.map",
     "runtime-main.js": "/boda-app/static/js/runtime-main.780ae3be.js",
@@ -10,14 +10,14 @@
     "static/js/3.72d4e5e8.chunk.js": "/boda-app/static/js/3.72d4e5e8.chunk.js",
     "static/js/3.72d4e5e8.chunk.js.map": "/boda-app/static/js/3.72d4e5e8.chunk.js.map",
     "index.html": "/boda-app/index.html",
-    "static/css/main.d5953adb.chunk.css.map": "/boda-app/static/css/main.d5953adb.chunk.css.map",
+    "static/css/main.33356f7a.chunk.css.map": "/boda-app/static/css/main.33356f7a.chunk.css.map",
     "static/js/2.de41fc4b.chunk.js.LICENSE.txt": "/boda-app/static/js/2.de41fc4b.chunk.js.LICENSE.txt",
     "static/media/titulo.css": "/boda-app/static/media/Pacifico-Regular.93cd59ff.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.780ae3be.js",
     "static/js/2.de41fc4b.chunk.js",
-    "static/css/main.d5953adb.chunk.css",
+    "static/css/main.33356f7a.chunk.css",
     "static/js/main.0c09fca3.chunk.js"
   ]
 }
