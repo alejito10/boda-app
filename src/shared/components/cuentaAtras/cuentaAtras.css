@@ -31,7 +31,7 @@
 .time-text{
     display: flex;
     margin-left: 1rem;
-    font-size: 2vh;
+    font-size: 5vh;
 }
 @media (max-width: 600px){
     .countdown-wrapper{
