@@ -35,4 +35,7 @@ export const NavbarWrapper = styled.nav`
 		text-decoration: none;
 		margin-left: 20px;
 	}
+	a:hover{
+		color: blue;
+	}
 `;
