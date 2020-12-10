@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/boda-app/static/css/main.8dad60f4.chunk.css",
-    "main.js": "/boda-app/static/js/main.4d31093b.chunk.js",
-    "main.js.map": "/boda-app/static/js/main.4d31093b.chunk.js.map",
-    "runtime-main.js": "/boda-app/static/js/runtime-main.780ae3be.js",
-    "runtime-main.js.map": "/boda-app/static/js/runtime-main.780ae3be.js.map",
-    "static/js/2.de41fc4b.chunk.js": "/boda-app/static/js/2.de41fc4b.chunk.js",
-    "static/js/2.de41fc4b.chunk.js.map": "/boda-app/static/js/2.de41fc4b.chunk.js.map",
-    "static/js/3.72d4e5e8.chunk.js": "/boda-app/static/js/3.72d4e5e8.chunk.js",
-    "static/js/3.72d4e5e8.chunk.js.map": "/boda-app/static/js/3.72d4e5e8.chunk.js.map",
+    "main.js": "/boda-app/static/js/main.a98ea641.chunk.js",
+    "main.js.map": "/boda-app/static/js/main.a98ea641.chunk.js.map",
+    "runtime-main.js": "/boda-app/static/js/runtime-main.6464ed49.js",
+    "runtime-main.js.map": "/boda-app/static/js/runtime-main.6464ed49.js.map",
+    "static/js/2.6479156e.chunk.js": "/boda-app/static/js/2.6479156e.chunk.js",
+    "static/js/2.6479156e.chunk.js.map": "/boda-app/static/js/2.6479156e.chunk.js.map",
+    "static/js/3.bc0aed3e.chunk.js": "/boda-app/static/js/3.bc0aed3e.chunk.js",
+    "static/js/3.bc0aed3e.chunk.js.map": "/boda-app/static/js/3.bc0aed3e.chunk.js.map",
     "index.html": "/boda-app/index.html",
     "static/css/main.8dad60f4.chunk.css.map": "/boda-app/static/css/main.8dad60f4.chunk.css.map",
-    "static/js/2.de41fc4b.chunk.js.LICENSE.txt": "/boda-app/static/js/2.de41fc4b.chunk.js.LICENSE.txt",
+    "static/js/2.6479156e.chunk.js.LICENSE.txt": "/boda-app/static/js/2.6479156e.chunk.js.LICENSE.txt",
     "static/media/titulo.css": "/boda-app/static/media/Pacifico-Regular.93cd59ff.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.780ae3be.js",
-    "static/js/2.de41fc4b.chunk.js",
+    "static/js/runtime-main.6464ed49.js",
+    "static/js/2.6479156e.chunk.js",
     "static/css/main.8dad60f4.chunk.css",
-    "static/js/main.4d31093b.chunk.js"
+    "static/js/main.a98ea641.chunk.js"
   ]
 }
