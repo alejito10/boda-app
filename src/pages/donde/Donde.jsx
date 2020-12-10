@@ -20,7 +20,7 @@ export function Donde() {
 						<p>
 							Aunque si preferís ir en vuestro propio coche,la finca Valquijancho tiene un parking exclusivo para los invitados de la boda.
                             <br/>
-							Os dejamos la ubicación y algo de información acerca del sitio.
+							Os dejamos la ubicación y algo de información acerca del sitio. Pincha en el icono del mapa para que te lleve a la celebracion.
 						</p>
 					</div>
 				</div>
