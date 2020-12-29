@@ -10,7 +10,7 @@ export function Formulario() {
 			axios.post("https://back-boda-app.herokuapp.com/new",data).then(res=>{
 				//respuesta del servidor
 				console.log(res);
-				if(res.status==200){
+				if(res.status===200){
 					e.target.reset();
 				}
 			});
