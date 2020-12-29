@@ -1,0 +1,14 @@
+@font-face{
+    font-family: titulo;
+    src: url('../../../styles/fonts/Pacifico-Regular.ttf');
+}
+.c-title{
+    color: black;
+    text-align: center;
+    font-family: titulo;
+}
+.title{
+    font-family: titulo;
+    font-size: 10vh;
+}
+

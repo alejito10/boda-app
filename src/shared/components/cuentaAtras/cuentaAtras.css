@@ -1,0 +1,52 @@
+.countdown-wrapper{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.fecha{
+    text-align: center;
+}
+.time-section{
+    width: 10rem;
+	height: 10rem;
+    margin-left: 20px;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 50%;
+    justify-content: center;
+	align-items: center;
+	text-align: center;
+    display: flex;
+    padding: 3vw;
+
+	
+}
+.time{
+    display: flex;
+    font-size: 10vh;
+}
+.time-text{
+    display: flex;
+    margin-left: 1rem;
+    font-size: 5vh;
+}
+@media (max-width: 600px){
+    .countdown-wrapper{
+        display: block;
+    }
+    .time-section{
+        display: block;
+        margin-top: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .time-text{
+        display: block;
+    }
+    .time{
+        display: block;
+    }
+}
