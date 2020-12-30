@@ -27,14 +27,14 @@ export function Navbar({ open }) {
 
 		const navbarStyles = {
 			position: "fixed",
-			height: "60px",
+			//height: "60px",
 			width: "100%",
 			backgroundColor: "grey",
 			transition: "top 0.6s",
 			margin:'0'
 		};
 	return (
-			<NavbarWrapper open={open} style={{ ...navbarStyles, top: visible ? "0" : "-60px" }}>
+			<NavbarWrapper open={open} style={{ ...navbarStyles, top: visible ? "0" : "-100px" }}>
 				<Link to="/">Inicio</Link>
 				<Link to="alergias">Formulario</Link>
 				<Link to="donde">Celebracion</Link>
