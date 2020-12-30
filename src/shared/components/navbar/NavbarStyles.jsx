@@ -31,11 +31,12 @@ export const NavbarWrapper = styled.nav`
 
 	a {
 		padding: 0.5rem 0.8rem;
-		color: grey;
+		color: black;
 		text-decoration: none;
 		margin-left: 20px;
 	}
-	a:hover{
+	a:hover {
 		color: blue;
+		text-decoration: line-through;
 	}
 `;

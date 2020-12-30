@@ -87,7 +87,7 @@ export function Formulario() {
 						<div className="c-contenido">
 							<label htmlFor="message">
 								<div>
-									<span className="b-text-label">Alergias</span>
+									<span className="b-text-label">Alergias e intolerancias</span>
 								</div>
 
 								<textarea

@@ -3,6 +3,7 @@ import {CuentaAtras} from '../../shared/components/cuentaAtras/CuentaAtras'
 import './home.css'
 
 export function Home() {
+	
     return (
 			<div>
 				<div className="countdown">
