@@ -6,7 +6,7 @@ import './titulo.css'
 export function Titulo() {
 	useEffect(()=>{
 		AOS.init({
-			duration:3000
+			duration:2000
 		})
 	},[])
     return (

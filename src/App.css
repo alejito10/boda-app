@@ -22,3 +22,7 @@ Header{
 	margin-top: 0;
 	padding: 0%;
 }
+@font-face {
+		font-family: inicio;
+		src: url("/src/styles/fonts/Pacifico-Regular.ttf");
+	}

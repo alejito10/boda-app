@@ -6,7 +6,7 @@ import './cuentaAtras.css'
 export function CuentaAtras() {
 	useEffect(() => {
 		AOS.init({
-			duration: 3000,
+			duration: 2000,
 		});
 	}, []);
    const [countdownDate, setCountdownDate] = useState(
