@@ -10,9 +10,9 @@ export function Titulo() {
 		})
 	},[])
     return (
-            <div className="c-title">
+			<div className="c-title">
 				<h1 data-aos="fade-right" className="title">
-					Boda Natalia & Alejandro
+					Boda Alejandro & Natalia
 				</h1>
 			</div>
 		);
