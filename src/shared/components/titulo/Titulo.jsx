@@ -1,14 +1,19 @@
-import React from 'react'
+import React, { useEffect } from 'react'
+import AOS from "aos";
+import "aos/dist/aos.css";
 import './titulo.css'
 
 export function Titulo() {
+	useEffect(()=>{
+		AOS.init({
+			duration:3000
+		})
+	},[])
     return (
-        
             <div className="c-title">
-				<h1 className="title">
+				<h1 data-aos="fade-right" className="title">
 					Boda Natalia & Alejandro
 				</h1>
 			</div>
-			
 		);
 }
