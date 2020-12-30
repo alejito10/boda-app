@@ -1,7 +1,14 @@
 import React, { useEffect, useState } from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
 import './cuentaAtras.css'
 
 export function CuentaAtras() {
+	useEffect(() => {
+		AOS.init({
+			duration: 3000,
+		});
+	}, []);
    const [countdownDate, setCountdownDate] = useState(
 			new Date("06/19/2021").getTime()
 		);
@@ -56,24 +63,23 @@ export function CuentaAtras() {
 					<h1>19 de Junio de 2021, Finca Valquijancho</h1>
 				</div>
 				<div className="countdown-wrapper">
-					<div className="time-section">
+					<div data-aos="fade-right" className="time-section">
 						<div className="time">{state.days || "0"}</div>
 						<small className="time-text">DAYS</small>
 					</div>
-					<div className="time-section">
+					<div data-aos="fade-left" className="time-section">
 						<div className="time">{state.hours || "00"}</div>
 						<small className="time-text">HOURS</small>
 					</div>
-					<div className="time-section">
+					<div data-aos="fade-right" className="time-section">
 						<div className="time">{state.minutes || "00"}</div>
 						<small className="time-text">MINUTES</small>
 					</div>
-					<div className="time-section">
+					<div data-aos="fade-left" className="time-section">
 						<div className="time">{state.seconds || "00"}</div>
 						<small className="time-text">SECONDS</small>
 					</div>
 				</div>
 			</div>
-			
 		);
 }
