@@ -60,7 +60,7 @@ export function CuentaAtras() {
     return (
 			<div>
 				<div className="fecha">
-					<h1>19 de Junio de 2021, Finca Valquijancho</h1>
+					<h1 data-aos="flip-left">19 de Junio de 2021, Finca Valquijancho</h1>
 				</div>
 				<div className="countdown-wrapper">
 					<div data-aos="fade-right" className="time-section">
