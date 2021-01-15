@@ -12,7 +12,8 @@ const MenuButtonWrapper = styled.button`
 `;
 
 function MenuButton({ open, handleClick }) {
-	return !open ? (
+	console.log('OPEN?',open)
+	return !open ? (//esta son las lineas
 		<MenuButtonWrapper onClick={handleClick}>
 			<svg viewBox="0 0 100 80" width="30" height="30" fill="#2962ff">
 				<rect width="90" height="10" />
@@ -20,7 +21,7 @@ function MenuButton({ open, handleClick }) {
 				<rect y="60" width="70" height="10" />
 			</svg>
 		</MenuButtonWrapper>
-	) : (
+	) : (//este es el aspa
 		<MenuButtonWrapper onClick={handleClick}>
 			<svg
 				className="svg-icon"
