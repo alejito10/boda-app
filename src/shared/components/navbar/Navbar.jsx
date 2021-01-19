@@ -34,7 +34,7 @@ export function Navbar({ open }) {
 			margin:'0'
 		};
 	return (
-			<NavbarWrapper open={open} style={{ ...navbarStyles, top: visible ? "0" : "-100px" }}>
+			<NavbarWrapper open={open} style={{ ...navbarStyles, top: visible ? "50px" : "-100px" }}>
 				<Link to="/">Inicio</Link>
 				<Link to="alergias">Formulario</Link>
 				<Link to="donde">Celebracion</Link>

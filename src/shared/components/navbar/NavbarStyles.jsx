@@ -23,7 +23,6 @@ export const NavbarWrapper = styled.nav`
 		background: #f2f2f2;
 		width: 100%;
 		left: 0;
-		top: 0;
 		position: fixed;
 		margin-top: 0;
 		padding: 0%;
