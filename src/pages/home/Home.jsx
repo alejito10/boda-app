@@ -10,7 +10,7 @@ export function Home() {
 				<title>Boda Alex y Natalia</title>
 				<meta
 					name="description"
-					content="Home de la boda con una cuenta atras y un descripcion de que lo te vas a encontrar dentro de la pagina de la boda"
+					content="Pagina de inicio de la boda de Alejandro y Natalia, donde encontraras una breve descripción de la ceremonia y una cuenta tras hasta la fecha de la boda, navegando encontraras un formulario para declarar alergias o preferencia en la comida y si vas a utilizar el servicio de autobuses puesto por los novios. En la pagina de donde dormir encontraras múltiples hoteles donde poder reservar una habitación."
 				/>
 			</Helmet>
 			<div className="countdown">
